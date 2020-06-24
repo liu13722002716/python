@@ -1,2 +1,2 @@
 # python
-python的练习
+python的相关练习
